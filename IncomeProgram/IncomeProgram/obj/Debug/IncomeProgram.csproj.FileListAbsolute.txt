@@ -1,0 +1,7 @@
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeProgram\IncomeProgram\bin\Debug\IncomeProgram.exe.config
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeProgram\IncomeProgram\bin\Debug\IncomeProgram.exe
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeProgram\IncomeProgram\bin\Debug\IncomeProgram.pdb
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeProgram\IncomeProgram\obj\Debug\IncomeProgram.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeProgram\IncomeProgram\obj\Debug\IncomeProgram.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeProgram\IncomeProgram\obj\Debug\IncomeProgram.exe
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\IncomeProgram\IncomeProgram\obj\Debug\IncomeProgram.pdb
