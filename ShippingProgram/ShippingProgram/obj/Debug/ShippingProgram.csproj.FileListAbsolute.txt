@@ -1,0 +1,7 @@
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingProgram\ShippingProgram\bin\Debug\ShippingProgram.exe.config
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingProgram\ShippingProgram\bin\Debug\ShippingProgram.exe
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingProgram\ShippingProgram\bin\Debug\ShippingProgram.pdb
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingProgram\ShippingProgram\obj\Debug\ShippingProgram.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingProgram\ShippingProgram\obj\Debug\ShippingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingProgram\ShippingProgram\obj\Debug\ShippingProgram.exe
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\ShippingProgram\ShippingProgram\obj\Debug\ShippingProgram.pdb
