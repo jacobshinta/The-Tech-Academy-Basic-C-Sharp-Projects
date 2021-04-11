@@ -39,7 +39,7 @@ namespace ArrayProgram
 
             Console.WriteLine("Choose an index for the colors2 List."); //ask for an index value
             int userColor2 = Convert.ToInt32(Console.ReadLine()); //convert and store the variable
-            while (userColor2 > (colors2.Count - 1)) //loop to ask for a correct value
+            while (userColor2 >= colors2.Count) //loop to ask for a correct value
             {
                 Console.WriteLine("Please choose a value between 0 and 2."); //display string asking for valid index value
                 userColor2 = Convert.ToInt32(Console.ReadLine()); //conver and store var

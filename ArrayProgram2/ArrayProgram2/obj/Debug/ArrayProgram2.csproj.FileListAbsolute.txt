@@ -1,0 +1,7 @@
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayProgram2\ArrayProgram2\bin\Debug\ArrayProgram2.exe.config
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayProgram2\ArrayProgram2\bin\Debug\ArrayProgram2.exe
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayProgram2\ArrayProgram2\bin\Debug\ArrayProgram2.pdb
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayProgram2\ArrayProgram2\obj\Debug\ArrayProgram2.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayProgram2\ArrayProgram2\obj\Debug\ArrayProgram2.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayProgram2\ArrayProgram2\obj\Debug\ArrayProgram2.exe
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayProgram2\ArrayProgram2\obj\Debug\ArrayProgram2.pdb
