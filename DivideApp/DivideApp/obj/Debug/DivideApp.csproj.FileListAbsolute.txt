@@ -1,0 +1,7 @@
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\DivideApp\DivideApp\bin\Debug\DivideApp.exe.config
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\DivideApp\DivideApp\bin\Debug\DivideApp.exe
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\DivideApp\DivideApp\bin\Debug\DivideApp.pdb
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\DivideApp\DivideApp\obj\Debug\DivideApp.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\DivideApp\DivideApp\obj\Debug\DivideApp.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\DivideApp\DivideApp\obj\Debug\DivideApp.exe
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\DivideApp\DivideApp\obj\Debug\DivideApp.pdb
