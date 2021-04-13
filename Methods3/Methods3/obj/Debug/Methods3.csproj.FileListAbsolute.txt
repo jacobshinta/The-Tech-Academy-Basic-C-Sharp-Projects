@@ -1,0 +1,7 @@
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\Methods3\Methods3\bin\Debug\Methods3.exe.config
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\Methods3\Methods3\bin\Debug\Methods3.exe
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\Methods3\Methods3\bin\Debug\Methods3.pdb
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\Methods3\Methods3\obj\Debug\Methods3.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\Methods3\Methods3\obj\Debug\Methods3.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\Methods3\Methods3\obj\Debug\Methods3.exe
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\Methods3\Methods3\obj\Debug\Methods3.pdb
