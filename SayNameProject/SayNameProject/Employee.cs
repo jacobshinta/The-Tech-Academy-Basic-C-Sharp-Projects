@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace SayNameProject
 {
-    public class Employee : Person //inherit the person class
+    public class Employee : Person, IQuittable //inherit the person class
     {
         public int Id { get; set; } //set a property
+
+        public void Quit()
+        {
+            throw new NotImplementedException(); //throw exception
+        }
 
         //public void SayName()
         //{

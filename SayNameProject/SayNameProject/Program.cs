@@ -16,6 +16,12 @@ namespace SayNameProject
             //person.Id = 21;
 
             person.SayName(); //call method
+
+            IQuittable quittable = new Employee(); 
+            
+            quittable.Quit();
+            
+
         }
     }
 }
