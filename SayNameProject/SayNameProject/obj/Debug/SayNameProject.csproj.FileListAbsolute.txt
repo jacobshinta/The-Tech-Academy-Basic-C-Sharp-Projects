@@ -1,0 +1,7 @@
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\SayNameProject\SayNameProject\bin\Debug\SayNameProject.exe.config
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\SayNameProject\SayNameProject\bin\Debug\SayNameProject.exe
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\SayNameProject\SayNameProject\bin\Debug\SayNameProject.pdb
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\SayNameProject\SayNameProject\obj\Debug\SayNameProject.csprojAssemblyReference.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\SayNameProject\SayNameProject\obj\Debug\SayNameProject.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\SayNameProject\SayNameProject\obj\Debug\SayNameProject.exe
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\SayNameProject\SayNameProject\obj\Debug\SayNameProject.pdb
