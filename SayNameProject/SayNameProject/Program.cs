@@ -10,12 +10,12 @@ namespace SayNameProject
     {
         static void Main(string[] args)
         {
-            Employee person = new Employee(); //instantiate object
-            person.FirstName = "Sample"; //set variables
-            person.LastName = "Student";
+            Employee employee = new Employee(); //instantiate object
+            employee.FirstName = "Sample"; //set variables
+            employee.LastName = "Student";
             //person.Id = 21;
 
-            person.SayName(); //call method
+            employee.SayName(); //call method
 
             IQuittable quittable = new Employee(); 
             

@@ -10,10 +10,7 @@ namespace SayNameProject
     {
         public string FirstName { get; set; } //set properties
         public string LastName { get; set; }
-        public void SayName()
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName); //display name
-            Console.Read();
-        }
+        public abstract void SayName();
+        
     }
 }

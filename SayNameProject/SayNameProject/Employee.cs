@@ -10,6 +10,12 @@ namespace SayNameProject
     {
         public int Id { get; set; } //set a property
 
+        public override void SayName()
+        {
+            Console.WriteLine(FirstName);
+            Console.WriteLine(LastName);
+            Console.ReadLine();
+        }
         public void Quit()
         {
             throw new NotImplementedException(); //throw exception
