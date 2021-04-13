@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SayNameProject
 {
-    public class Person
+    public abstract class Person
     {
         public string FirstName { get; set; } //set properties
         public string LastName { get; set; }
