@@ -10,16 +10,20 @@ namespace Methods4
     {
         static void Main(string[] args)
         {
+            Example example = new Example(); //instantiate
             Console.WriteLine("Enter a whole number and we'll divide it by 2."); //ask for variable
             int num = Convert.ToInt32(Console.ReadLine()); //convert and store the input
 
-            Example.Method(num, out int x); //call method
+            example.Method(num, out int x); //call method
             Console.WriteLine(x); //display result
 
             Console.WriteLine("Enter another number to be added to the result."); //ask for another variable
             int y = Convert.ToInt32(Console.ReadLine()); //store and convert
-            Example.Method(x, y, out int total); //call method
+            example.Method(x, y, out int total); //call method
             Console.WriteLine("The total is: " + total); //display result
+
+            Static.Test(out x); //call method
+            Console.WriteLine("This is a test." + x); //display result
             Console.ReadLine();
         }
     }

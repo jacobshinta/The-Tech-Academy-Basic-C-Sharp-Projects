@@ -8,12 +8,12 @@ namespace Methods4
 {
     public class Example
     {
-        public static void Method(int x, out int output) //create method 
+        public void Method(int x, out int output) //create method 
         {
             output = x / 2; //divide the variable
         }
 
-        public static void Method(int x, int y, out int total)
+        public void Method(int x, int y, out int total)
         {
             total = x + y;
         }  
