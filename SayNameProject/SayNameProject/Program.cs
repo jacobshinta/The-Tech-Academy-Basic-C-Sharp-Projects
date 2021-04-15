@@ -10,16 +10,15 @@ namespace SayNameProject
     {
         static void Main(string[] args)
         {
-            Employee employee = new Employee(); //instantiate object
-            employee.FirstName = "Sample"; //set variables
-            employee.LastName = "Student";
-            //person.Id = 21;
+            Employee person1 = new Employee(); //instantiate objects
+            Employee person2 = new Employee();
 
-            employee.SayName(); //call method
+            person1.Id = 10; //set their ids
+            person2.Id = 10;
 
-            IQuittable quittable = new Employee(); 
-            
-            quittable.Quit();
+            bool result = person1 == person2; //use the overloaded operator to see if their ids are equal and set result to the variable
+            Console.WriteLine(result); //display result
+            Console.ReadLine();
             
 
         }

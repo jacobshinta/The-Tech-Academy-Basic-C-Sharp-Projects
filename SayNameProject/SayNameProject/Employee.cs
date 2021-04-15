@@ -21,10 +21,15 @@ namespace SayNameProject
             throw new NotImplementedException(); //throw exception
         }
 
-        //public void SayName()
-        //{
-        //    Console.WriteLine("Name: " + FirstName + " " + LastName + " ID #" + Id);
-        //    Console.ReadLine();
-        //}
+        public static bool operator== (Employee person1, Employee person2) //overload the == operator
+        {
+            return (person1.Id == person2.Id); //return the result
+        }
+
+        public static bool operator!= (Employee person1, Employee person2)
+        {
+            return (person1.Id != person2.Id);
+        }
+        
     }
 }
