@@ -5,3 +5,6 @@ C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\
 C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino2.dll
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\Casino2.pdb
+C:\Users\Jacob\source\repos\jacobshinta\The-Tech-Academy-Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
